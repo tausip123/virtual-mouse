@@ -31,3 +31,6 @@ A gesture-controlled virtual mouse that allows users to control cursor movement,
 3. Gesture calibration mode
 4. On-screen gesture indicators
 5. AI-based gesture classification
+
+pip install -r requirements.txt
+
